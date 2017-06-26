@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WorkGivers>
+
+  <WorkGiverDef>
+    <defName>HaulDeliverResourcesToFrames</defName>
+    <label>deliver resources to frames</label>
+    <giverClass>WorkGiver_ConstructDeliverResourcesToFrames</giverClass>
+    <workType>Hauling</workType>
+    <priorityInType>95</priorityInType>
+    <verb>work on</verb>
+    <gerund>working on</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <canBeDoneByNonColonists>true</canBeDoneByNonColonists>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>HaulDeliverResourcesToBlueprints</defName>
+    <label>deliver resources to blueprints</label>
+    <giverClass>WorkGiver_ConstructDeliverResourcesToBlueprints</giverClass>
+    <workType>Hauling</workType>
+    <priorityInType>93</priorityInType>
+    <verb>work on</verb>
+    <gerund>working on</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <canBeDoneByNonColonists>true</canBeDoneByNonColonists>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+</WorkGivers>

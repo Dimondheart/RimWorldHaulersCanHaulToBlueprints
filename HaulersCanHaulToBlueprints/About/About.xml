@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Haulers Can Haul To Blueprints</name>
+  <author>Bryan Bettis</author>
+  <description>A small mod whitch allows pawns with the Hauling job to haul resources to blueprints/frames. Pawns with the Construction job can still haul resources themselves as needed.</description>
+  <targetVersion>0.17.1557</targetVersion>
+</ModMetaData>
