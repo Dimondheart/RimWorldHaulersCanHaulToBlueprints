@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <HaulDeliverResourcesToFrames.label>deliver resources to frames</HaulDeliverResourcesToFrames.label>
+    <HaulDeliverResourcesToFrames.verb>work on</HaulDeliverResourcesToFrames.verb>
+    <HaulDeliverResourcesToFrames.gerund>working on</HaulDeliverResourcesToFrames.gerund>
+
+    <HaulDeliverResourcesToBlueprints.label>deliver resources to blueprints</HaulDeliverResourcesToBlueprints.label>
+    <HaulDeliverResourcesToBlueprints.verb>work on</HaulDeliverResourcesToBlueprints.verb>
+    <HaulDeliverResourcesToBlueprints.gerund>working on</HaulDeliverResourcesToBlueprints.gerund>
+
+</LanguageData>

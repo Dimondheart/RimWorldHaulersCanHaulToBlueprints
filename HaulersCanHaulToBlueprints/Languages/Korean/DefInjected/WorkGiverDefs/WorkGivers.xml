@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <HaulDeliverResourcesToFrames.label>프레임에 물자 전달</HaulDeliverResourcesToFrames.label>
+    <HaulDeliverResourcesToFrames.verb>물자 전달</HaulDeliverResourcesToFrames.verb>
+    <HaulDeliverResourcesToFrames.gerund>물자 전달</HaulDeliverResourcesToFrames.gerund>
+
+    <HaulDeliverResourcesToBlueprints.label>청사진에 물자 전달</HaulDeliverResourcesToBlueprints.label>
+    <HaulDeliverResourcesToBlueprints.verb>물자 전달</HaulDeliverResourcesToBlueprints.verb>
+    <HaulDeliverResourcesToBlueprints.gerund>물자 전달</HaulDeliverResourcesToBlueprints.gerund>
+
+</LanguageData>
